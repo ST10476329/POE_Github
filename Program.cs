@@ -7,7 +7,7 @@ using System.Media;
 
 namespace POE_Github
 {
-    internal class Program
+    internal class Program //ST10476329 
     {
         static void Main(string[] args)
         {
@@ -47,7 +47,7 @@ namespace POE_Github
                 "To keep data secure on new websites, check for HTTPS and consider incognito mode."
             };
 
-            bool keepchatting = true;
+            bool keepchatting = true; // the loop continue as long as the user never typed 'exit'
 
             while (keepchatting)
             {
