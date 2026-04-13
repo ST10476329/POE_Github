@@ -7,7 +7,7 @@ using System.Media;
 
 namespace POE_Github
 {
-    internal class Program //ST10476329 
+    internal class Program //ST10476329
     {
         static void Main(string[] args)
         {
